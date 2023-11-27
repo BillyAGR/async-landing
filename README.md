@@ -5,9 +5,8 @@
 ### References
 - Thanks to images of : [appleberries22](https://www.deviantart.com/appleberries22) "Artist"
 
-### Screenshot
-
-![screnshot](./src/assets/img/image-main.JPG)
-
-### Screenshot
+### Demo
 https://billyagr.github.io/async-landing/
+
+### Screenshot
+![screnshot](./src/assets/img/image-main.JPG)
